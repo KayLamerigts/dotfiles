@@ -1,0 +1,17 @@
+!rofi.theme: /usr/share/rofi/themes/Paper.rasi
+
+rofi.lines: 5
+rofi.eh: 2
+rofi.padding: 200
+rofi.fullscreen: true
+rofi.bw: 0
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+
+!                  'background', 'border', 'separator'
+rofi.color-window: argb:DDe0e0e0, #373b41, #1d1f21
+
+! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: argb:00000000, #373b41, argb:00000000, argb:881d1f21, #ffffff
+
+rofi.font: Hack 18

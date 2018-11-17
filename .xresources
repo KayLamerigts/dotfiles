@@ -40,23 +40,6 @@ URxvt.iso14755_52: false
 #define base0F #a16946
 
 ! ------------------------------------------------------------------------------
-! ROFI
-! ------------------------------------------------------------------------------
-! Enable the extended coloring options
-rofi.color-enabled: true
-
-! Property Name     BG       Border   Separator
-rofi.color-window:  base01,  base01,  base00
-
-! Property Name     BG       FG       BG-alt   Head-BG  Head-FG
-rofi.color-normal:  base01,  base04,  base01,  base01,  base07
-rofi.color-active:  base01,  base0D,  base01,  base01,  base0D
-rofi.color-urgent:  base01,  base08,  base01,  base01,  base08
-
-! Set the desired separator style
-rofi.separator-style: solid
-
-! ------------------------------------------------------------------------------
 ! Terminal
 ! ------------------------------------------------------------------------------
 *.foreground:   base05

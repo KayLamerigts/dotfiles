@@ -1,0 +1,3 @@
+# Spelling correction
+setopt correct
+
